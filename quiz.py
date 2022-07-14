@@ -6,7 +6,8 @@ with open("gen1-5.json","r") as f:
     pokemons = json.load(f)
 random.shuffle(pokemons)
 input("press Enter!")
-for pokemon in pokemons:
+for i,pokemon in enumerate(pokemons):
+    print(str(i+1)+"/"+str(len(pokemons)))
     wav_obj = simpleaudio.WaveObject.from_wave_file("voice/" + pokemon["no"] + ".wav")
     c = 0
     while(c == 0):
