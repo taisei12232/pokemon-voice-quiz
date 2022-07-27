@@ -1,7 +1,6 @@
 import json
 import random
 import simpleaudio
-import subprocess
 
 with open("gen1-8.json","r") as f:
     pokemons = json.load(f)
@@ -13,19 +12,14 @@ for i,pokemon in enumerate(pokemons):
     c = 0
     while(c == 0):
         wav_obj.play()
-        a = input("press Enter to answer!\n")
+        a = input("press Enter to answer!")
         c += 1
         if(a == "r"):
             c = 0
         if(a == "q"):
             exit()
-    cmd = 'toilet -w $(tput cols) -f mono12 "' + pokemon["displayname"] + '"'
-    #print(cmd)
-    subprocess.call(cmd,shell=True)
+    print(pokemon["name"])
     c = 0
-    if(i+1 == len(pokemons)):
-        print("finished!")
-        exit()
     while(c == 0):
         b = input("press Enter to next!")
         if b == "q":

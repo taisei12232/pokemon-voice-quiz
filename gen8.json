@@ -1,0 +1,472 @@
+[
+    {
+        "no": "810",
+        "name": "サルノリ",
+        "displayname": "サルノリ"
+    },
+    {
+        "no": "811",
+        "name": "バチンキー",
+        "displayname": "バチンキー"
+    },
+    {
+        "no": "812",
+        "name": "ゴリランダー",
+        "displayname": "ゴリランダー"
+    },
+    {
+        "no": "813",
+        "name": "ヒバニー",
+        "displayname": "ヒバニー"
+    },
+    {
+        "no": "814",
+        "name": "ラビフット",
+        "displayname": "ラビフット"
+    },
+    {
+        "no": "815",
+        "name": "エースバーン",
+        "displayname": "エースバーン"
+    },
+    {
+        "no": "816",
+        "name": "メッソン",
+        "displayname": "メッソン"
+    },
+    {
+        "no": "817",
+        "name": "ジメレオン",
+        "displayname": "ジメレオン"
+    },
+    {
+        "no": "818",
+        "name": "インテレオン",
+        "displayname": "インテレオン"
+    },
+    {
+        "no": "819",
+        "name": "ホシガリス",
+        "displayname": "ホシガリス"
+    },
+    {
+        "no": "820",
+        "name": "ヨクバリス",
+        "displayname": "ヨクバリス"
+    },
+    {
+        "no": "821",
+        "name": "ココガラ",
+        "displayname": "ココガラ"
+    },
+    {
+        "no": "822",
+        "name": "アオガラス",
+        "displayname": "アオガラス"
+    },
+    {
+        "no": "823",
+        "name": "アーマーガア",
+        "displayname": "アーマーガア"
+    },
+    {
+        "no": "824",
+        "name": "サッチムシ",
+        "displayname": "サッチムシ"
+    },
+    {
+        "no": "825",
+        "name": "レドームシ",
+        "displayname": "レドームシ"
+    },
+    {
+        "no": "826",
+        "name": "イオルブ",
+        "displayname": "イオルブ"
+    },
+    {
+        "no": "827",
+        "name": "クスネ",
+        "displayname": "クスネ"
+    },
+    {
+        "no": "828",
+        "name": "フォクスライ",
+        "displayname": "フォクスライ"
+    },
+    {
+        "no": "829",
+        "name": "ヒメンカ",
+        "displayname": "ヒメンカ"
+    },
+    {
+        "no": "830",
+        "name": "ワタシラガ",
+        "displayname": "ワタシラガ"
+    },
+    {
+        "no": "831",
+        "name": "ウールー",
+        "displayname": "ウールー"
+    },
+    {
+        "no": "832",
+        "name": "バイウールー",
+        "displayname": "バイウールー"
+    },
+    {
+        "no": "833",
+        "name": "カムカメ",
+        "displayname": "カムカメ"
+    },
+    {
+        "no": "834",
+        "name": "カジリガメ",
+        "displayname": "カジリガメ"
+    },
+    {
+        "no": "835",
+        "name": "ワンパチ",
+        "displayname": "ワンパチ"
+    },
+    {
+        "no": "836",
+        "name": "パルスワン",
+        "displayname": "パルスワン"
+    },
+    {
+        "no": "837",
+        "name": "タンドン",
+        "displayname": "タンドン"
+    },
+    {
+        "no": "838",
+        "name": "トロッゴン",
+        "displayname": "トロッゴン"
+    },
+    {
+        "no": "839",
+        "name": "セキタンザン",
+        "displayname": "セキタンザン"
+    },
+    {
+        "no": "840",
+        "name": "カジッチュ",
+        "displayname": "カジッチュ"
+    },
+    {
+        "no": "841",
+        "name": "アップリュー",
+        "displayname": "アップリュー"
+    },
+    {
+        "no": "842",
+        "name": "タルップル",
+        "displayname": "タルップル"
+    },
+    {
+        "no": "843",
+        "name": "スナヘビ",
+        "displayname": "スナヘビ"
+    },
+    {
+        "no": "844",
+        "name": "サダイジャ",
+        "displayname": "サダイジャ"
+    },
+    {
+        "no": "845",
+        "name": "ウッウ",
+        "displayname": "ウッウ"
+    },
+    {
+        "no": "846",
+        "name": "サシカマス",
+        "displayname": "サシカマス"
+    },
+    {
+        "no": "847",
+        "name": "カマスジョー",
+        "displayname": "カマスジョー"
+    },
+    {
+        "no": "848",
+        "name": "エレズン",
+        "displayname": "エレズン"
+    },
+    {
+        "no": "849A",
+        "name": "ストリンダーハイなすがた",
+        "displayname": "ストリンダー\nハイなすがた"
+    },
+    {
+        "no": "849L",
+        "name": "ストリンダーローなすがた",
+        "displayname": "ストリンダー\nローなすがた"
+    },
+    {
+        "no": "850",
+        "name": "ヤクデ",
+        "displayname": "ヤクデ"
+    },
+    {
+        "no": "851",
+        "name": "マルヤクデ",
+        "displayname": "マルヤクデ"
+    },
+    {
+        "no": "852",
+        "name": "タタッコ",
+        "displayname": "タタッコ"
+    },
+    {
+        "no": "853",
+        "name": "オトスパス",
+        "displayname": "オトスパス"
+    },
+    {
+        "no": "854",
+        "name": "ヤバチャ",
+        "displayname": "ヤバチャ"
+    },
+    {
+        "no": "855",
+        "name": "ポットデス",
+        "displayname": "ポットデス"
+    },
+    {
+        "no": "856",
+        "name": "ミブリム",
+        "displayname": "ミブリム"
+    },
+    {
+        "no": "857",
+        "name": "テブリム",
+        "displayname": "テブリム"
+    },
+    {
+        "no": "858",
+        "name": "ブリムオン",
+        "displayname": "ブリムオン"
+    },
+    {
+        "no": "859",
+        "name": "ベロバー",
+        "displayname": "ベロバー"
+    },
+    {
+        "no": "860",
+        "name": "ギモー",
+        "displayname": "ギモー"
+    },
+    {
+        "no": "861",
+        "name": "オーロンゲ",
+        "displayname": "オーロンゲ"
+    },
+    {
+        "no": "862",
+        "name": "タチフサグマ",
+        "displayname": "タチフサグマ"
+    },
+    {
+        "no": "863",
+        "name": "ニャイキング",
+        "displayname": "ニャイキング"
+    },
+    {
+        "no": "864",
+        "name": "サニゴーン",
+        "displayname": "サニゴーン"
+    },
+    {
+        "no": "865",
+        "name": "ネギガナイト",
+        "displayname": "ネギガナイト"
+    },
+    {
+        "no": "866",
+        "name": "バリコオル",
+        "displayname": "バリコオル"
+    },
+    {
+        "no": "867",
+        "name": "デスバーン",
+        "displayname": "デスバーン"
+    },
+    {
+        "no": "868",
+        "name": "マホミル",
+        "displayname": "マホミル"
+    },
+    {
+        "no": "869",
+        "name": "マホイップ",
+        "displayname": "マホイップ"
+    },
+    {
+        "no": "870",
+        "name": "タイレーツ",
+        "displayname": "タイレーツ"
+    },
+    {
+        "no": "871",
+        "name": "バチンウニ",
+        "displayname": "バチンウニ"
+    },
+    {
+        "no": "872",
+        "name": "ユキハミ",
+        "displayname": "ユキハミ"
+    },
+    {
+        "no": "873",
+        "name": "モスノウ",
+        "displayname": "モスノウ"
+    },
+    {
+        "no": "874",
+        "name": "イシヘンジン",
+        "displayname": "イシヘンジン"
+    },
+    {
+        "no": "875",
+        "name": "コオリッポアイスフェイス",
+        "displayname": "コオリッポ\nアイスフェイス"
+    },
+    {
+        "no": "875N",
+        "name": "コオリッポナイスフェイス",
+        "displayname": "コオリッポ\nナイスフェイス"
+    },
+    {
+        "no": "876F",
+        "displayname": "イエッサン\nメスのすがた",
+        "name": "イエッサンメスのすがた"
+    },
+    {
+        "no": "876M",
+        "displayname": "イエッサン\nオスのすがた",
+        "name": "イエッサンオスのすがた"
+    },
+    {
+        "no": "877F",
+        "displayname": "モルペコ\nまんぷくもよう",
+        "name": "モルペコまんぷくもよう"
+    },
+    {
+        "no": "877H",
+        "displayname": "モルペコ\nはらぺこもよう",
+        "name": "モルペコはらぺこもよう"
+    },
+    {
+        "no": "878",
+        "name": "ゾウドウ",
+        "displayname": "ゾウドウ"
+    },
+    {
+        "no": "879",
+        "name": "ダイオウドウ",
+        "displayname": "ダイオウドウ"
+    },
+    {
+        "no": "880",
+        "name": "パッチラゴン",
+        "displayname": "パッチラゴン"
+    },
+    {
+        "no": "881",
+        "name": "パッチルドン",
+        "displayname": "パッチルドン"
+    },
+    {
+        "no": "882",
+        "name": "ウオノラゴン",
+        "displayname": "ウオノラゴン"
+    },
+    {
+        "no": "883",
+        "name": "ウオチルドン",
+        "displayname": "ウオチルドン"
+    },
+    {
+        "no": "884",
+        "name": "ジュラルドン",
+        "displayname": "ジュラルドン"
+    },
+    {
+        "no": "885",
+        "name": "ドラメシヤ",
+        "displayname": "ドラメシヤ"
+    },
+    {
+        "no": "886",
+        "name": "ドロンチ",
+        "displayname": "ドロンチ"
+    },
+    {
+        "no": "887",
+        "name": "ドラパルト",
+        "displayname": "ドラパルト"
+    },
+    {
+        "no": "888C",
+        "displayname": "ザシアン\nけんのおう",
+        "name": "ザシアンけんのおう"
+    },
+    {
+        "no": "888H",
+        "displayname": "ザシアン\nれきせんのゆうしゃ",
+        "name": "ザシアンれきせんのゆうしゃ"
+    },
+    {
+        "no": "889C",
+        "displayname": "ザマゼンタ\nたてのおう",
+        "name": "ザマゼンタたてのおう"
+    },
+    {
+        "no": "889H",
+        "displayname": "ザマゼンタ\nれきせんのゆうしゃ",
+        "name": "ザマゼンタれきせんのゆうしゃ"
+    },
+    {
+        "no": "890",
+        "name": "ムゲンダイナ",
+        "displayname": "ムゲンダイナ"
+    },
+    {
+        "no": "891",
+        "name": "ダクマ",
+        "displayname": "ダクマ"
+    },
+    {
+        "no": "893",
+        "displayname": "ザルード",
+        "name": "ザルード"
+    },
+    {
+        "no": "894",
+        "displayname": "レジエレキ",
+        "name": "レジエレキ"
+    },
+    {
+        "no": "895",
+        "displayname": "レジドラゴ",
+        "name": "レジドラゴ"
+    },
+    {
+        "no": "896",
+        "displayname": "ブリザポス",
+        "name": "ブリザポス"
+    },
+    {
+        "no": "897",
+        "displayname": "レイスポス",
+        "name": "レイスポス"
+    },
+    {
+        "no": "898",
+        "displayname": "バドレックス",
+        "name": "バドレックス"
+    }
+]
